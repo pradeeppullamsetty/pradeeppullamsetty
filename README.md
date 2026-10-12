@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4338ca&height=180&section=header&text=Pradeep%20Pullamsetty&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=16" width="100%" alt="Purple animated header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312e81,50:6d28d9,100:4338ca&amp;height=180&amp;section=header&amp;text=Pradeep%20Pullamsetty&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descAlignY=55&amp;descSize=16" width="100%" alt="Purple animated header"/>
 </p>
 
 <h1 align="center">
@@ -44,7 +44,7 @@ My current focus is on Python, problem-solving, and understanding how software s
 - Python development internships
 - Software engineering internships
 - Beginner-friendly open-source contributions
--<img src="https://example.com/image?theme=dark&amp;color=purple" />
+- Beginner-friendly open-source contributions
 
 ---
 
