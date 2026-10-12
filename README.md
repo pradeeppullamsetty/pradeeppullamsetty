@@ -44,7 +44,7 @@ My current focus is on Python, problem-solving, and understanding how software s
 - Python development internships
 - Software engineering internships
 - Beginner-friendly open-source contributions
-- Collaborative learning and project development
+-<img src="https://example.com/image?theme=dark&amp;color=purple" />
 
 ---
 
