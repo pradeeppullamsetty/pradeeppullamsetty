@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Python+Developer+in+Progress;Exploring+Artificial+Intelligence+%26+ML;Building+Projects+and+Learning+Every+Day" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=23&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Aspiring+Software+Engineer;Python+Developer+in+Progress;Exploring+Artificial+Intelligence+%26+ML;Building+Projects+and+Learning+Every+Day" alt="Typing animation"/>
 </h1>
 
 <p align="center">
@@ -44,8 +44,6 @@ My current focus is on Python, problem-solving, and understanding how software s
 - Python development internships
 - Software engineering internships
 - Beginner-friendly open-source contributions
-- Beginner-friendly open-source contributions
-
 ---
 
 ## Tech Stack
