@@ -35,6 +35,22 @@
 
 ---
 
+## ◈ Animated Developer ID
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradeep-kumar-01687a360/">
+    <img src="https://raw.githubusercontent.com/pradeeppullamsetty/pradeeppullamsetty/main/assets/developer-id-card.svg" width="100%" alt="Animated glass-style developer ID card for Pradeep Pullamsetty — click to open LinkedIn profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradeep-kumar-01687a360/"><img src="https://img.shields.io/badge/LinkedIn-View%20my%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View LinkedIn profile"/></a>
+  <a href="https://github.com/pradeeppullamsetty"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub profile"/></a>
+</p>
+
+
+---
+
 ## ◈ About Me
 
 I'm an aspiring software engineer focused on strengthening my programming fundamentals, building practical projects, and exploring artificial intelligence and machine learning.
